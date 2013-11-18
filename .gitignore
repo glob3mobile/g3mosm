@@ -12,7 +12,9 @@
 Android/G3MOSAndroid/bin/
 Android/G3MOSAndroid/gen/
 
-Server/G3MOSMServer/build
+Shared/G3MOSMShared/bin/
+
+Server/G3MOSMServer/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
